@@ -1,2 +1,4 @@
 # One-More-Step-To-Go
-Simple Golang programs and algorithms I created as I learn Go
+
+## About this repo
+This repo contains simple Golang programs and algorithms as I learn Go. 
